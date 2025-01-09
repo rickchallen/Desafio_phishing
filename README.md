@@ -16,6 +16,8 @@ Desafio de Phishing do Bootcamp de Cibersecurity Santander Com A DIO
    -  ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/custom_import_passo5_2024-12-15_09-17-02.png)
 - Salve a página do facebook e também inspecione o botão login e anote seu id.
    -   ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/Capturar.jpg)
+   -   Renomear a página salva para index.html, pois o setookit usa esse nome por padrão.
+   -   ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/Capturar17.jpg)
 
 - Obtendo o endereço da máquina: ifconfig
 - URL para clone: http://www.facebook.com
