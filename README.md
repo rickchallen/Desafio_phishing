@@ -12,7 +12,7 @@ Desafio de Phishing do Bootcamp de Cibersecurity Santander Com A DIO
 
 - Método de ataque: Credential Harvester Attack Method
    -  ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/credencials.png)
-- Método de ataque: Custom Import Vamos Utilizar esse metodo por que o Faceboo Adotou um mecanismo de defesa que impede a clonagem direta através da opção  Site cloner
+- Método de ataque: Custom Import Vamos Utilizar esse metodo por que o Facebook Adotou um mecanismo de defesa que impede a clonagem direta através da opção  Site cloner
    -  ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/custom_import_passo5_2024-12-15_09-17-02.png)
  
 - Obtendo o endereço da máquina: ifconfig
