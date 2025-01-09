@@ -1,7 +1,7 @@
 # Desafio_phishing
 Desafio de Phishing do Bootcamp de Cibersecurity Santander Com A DIO
 
-- Acesso root: sudo su
+- Acesso root no Terminal: sudo su
 - Iniciando o setoolkit: setoolkit
 - Tipo de ataque: Social-Engineering Attacks
     -  ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/Passo_2_kali_2024-12-15_09-10-33.png)
