@@ -20,5 +20,7 @@ Desafio de Phishing do Bootcamp de Cibersecurity Santander Com A DIO
    -   ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/Capturar17.jpg)
 - Salvar no index.html o codigo Fonte Online do facebook
    - ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/codigofonte_online.jpg)
+- Ao procurarmos id do botão veremos onde ele está sendo manipulado no código fonte. Isso deu uma dica rápida de qual chamada de script deveria ser deletada.
+   -   ![Descrição da imagem]() 
 - Obtendo o endereço da máquina: ifconfig
 - URL para clone: http://www.facebook.com
