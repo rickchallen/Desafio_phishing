@@ -24,5 +24,7 @@ Desafio de Phishing do Bootcamp de Cibersecurity Santander Com A DIO
    -   ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/Capturar24.jpg)
 - Agora Vamos remover o Script
    - ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/removendo_script.jpg)
+- Agora vamos continuar  no settoolkit com a opção custom import
+   - ![Descrição da imagem](https://github.com/rickchallen/Desafio_phishing/blob/main/custom_import_passo5_2024-12-15_09-17-02.png) 
 - Obtendo o endereço da máquina: ifconfig
 - URL para clone: http://www.facebook.com
