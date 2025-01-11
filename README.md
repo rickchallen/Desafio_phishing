@@ -30,5 +30,7 @@ Desafio de Phishing do Bootcamp de Cibersecurity Santander Com A DIO
   - ![Copiando a PAsta](https://github.com/rickchallen/Desafio_phishing/blob/main/copiando_path_pasta_linux.jpg)
 - Cole O Path no setoolkit
   - ![Cole o Path no setoolkit](https://github.com/rickchallen/Desafio_phishing/blob/main/cole_path.jpg)
+- Selecionar para copiar a pasta Inteira
+  -![Selecionar Pasta Inteira ](https://github.com/rickchallen/Desafio_phishing/blob/main/copiar_pasta_inteira.jpg)  
 - Obtendo o endereço da máquina: ifconfig
 - URL para clone: http://www.facebook.com
