@@ -36,3 +36,4 @@ Desafio de Phishing do Bootcamp de Cibersecurity Santander Com A DIO
     -  ![Defina a URL DO FACEBOOK](https://github.com/rickchallen/Desafio_phishing/blob/main/definindo_url_site_clonado_2024-12-15_09-25-22.png)
 # Resultado depois de Contornar a Defesa do Facebook
 - ![Resultado](https://github.com/rickchallen/Desafio_phishing/blob/main/Credenciais_2024-12-15_07-44-31.png)
+# Na pasta arquivos configurados contém todos os arquivos que são necessário para a realização da retirada da defesa do Facebook já com o Script de defesa retirado.
